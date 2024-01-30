@@ -11,3 +11,6 @@ console.log(gaveteiro)
 gaveteiro.unshift("joao")
 //unshift add na 1 posi.
 console.log(gaveteiro)
+
+
+
